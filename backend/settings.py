@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-3i06#os768(oa9@8$-wh%e_a)88mowtshi2@ufr9u(=-b5xv%!
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['.vercel.app']
 from datetime import timedelta
 
 
